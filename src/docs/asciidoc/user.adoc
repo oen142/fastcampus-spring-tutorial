@@ -1,0 +1,3 @@
+:basedir: {docdir}/../../../
+:snippets: {basedir}/build/generated-snippets
+
